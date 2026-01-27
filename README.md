@@ -37,3 +37,4 @@ Unir minha experiência técnica em manutenção com o desenvolvimento web, evol
 ## 📫 Onde me encontrar
 
 GitHub: https://github.com/gstalves
+LinkedIn: https://www.linkedin.com/in/gstalves/
