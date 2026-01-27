@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 Olá, eu sou o Gustavo Souza
 
-<!--
-**gstalves/gstalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Técnico em conserto de celulares
+💻 Estudante de programação (Front-end)
+🚀 Buscando minha primeira oportunidade na área de TI
 
-Here are some ideas to get you started:
+🔧 Experiência Técnica (Manutenção)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Troca de tela de celulares (Android)
+
+Formatação e configuração de aparelhos
+
+Instalação de aplicativos e sistemas
+
+Diagnóstico de problemas de hardware e software
+
+Atendimento ao cliente e suporte técnico
+
+Experiência prática lidando com problemas reais e soluções rápidas.
+
+🧠 Tecnologias em estudo
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Git & GitHub
+
+📂 Projetos
+
+🔹 Desafio Classe Herói
+🔹 Em breve novos projetos focados em Front-end
+
+🎯 Objetivo
+
+Unir minha experiência técnica em manutenção com o desenvolvimento web, evoluindo como profissional de TI.
+
+📫 Onde me encontrar
+
+GitHub: https://github.com/gstalves
