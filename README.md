@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou o Gustavo Souza
 
 📱 Técnico em conserto de celulares
+
 💻 Estudante de programação (Front-end)
+
 🚀 Buscando minha primeira oportunidade na área de TI
 
  ## 🔧 Experiência Técnica (Manutenção)
