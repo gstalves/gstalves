@@ -8,7 +8,7 @@
 
  ## 🔧 Experiência Técnica (Manutenção)
 
-Troca de tela de celulares (Android)
+Troca de tela de celulares
 
 Formatação e configuração de aparelhos
 
