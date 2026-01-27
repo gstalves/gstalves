@@ -1,10 +1,10 @@
-👋 Olá, eu sou o Gustavo Souza
+# 👋 Olá, eu sou o Gustavo Souza
 
 📱 Técnico em conserto de celulares
 💻 Estudante de programação (Front-end)
 🚀 Buscando minha primeira oportunidade na área de TI
 
-🔧 Experiência Técnica (Manutenção)
+ ## 🔧 Experiência Técnica (Manutenção)
 
 Troca de tela de celulares (Android)
 
@@ -18,7 +18,7 @@ Atendimento ao cliente e suporte técnico
 
 Experiência prática lidando com problemas reais e soluções rápidas.
 
-🧠 Tecnologias em estudo
+## 🧠 Tecnologias em estudo
 
 HTML5
 
@@ -28,15 +28,10 @@ JavaScript
 
 Git & GitHub
 
-📂 Projetos
-
-🔹 Desafio Classe Herói
-🔹 Em breve novos projetos focados em Front-end
-
-🎯 Objetivo
+## 🎯 Objetivo
 
 Unir minha experiência técnica em manutenção com o desenvolvimento web, evoluindo como profissional de TI.
 
-📫 Onde me encontrar
+## 📫 Onde me encontrar
 
 GitHub: https://github.com/gstalves
