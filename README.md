@@ -4,6 +4,8 @@
 
 💻 Estudante de programação (Front-end)
 
+🎓 Graduando em Análise e Desenvolvimento de Software
+
 🚀 Buscando minha primeira oportunidade na área de TI
 
  ## 🔧 Experiência Técnica (Manutenção)
