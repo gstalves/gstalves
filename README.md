@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gustavo Souza
+# 👋 Olá, eu sou o Gustavo De Souza
 
 📱 Técnico em conserto de celulares
 
